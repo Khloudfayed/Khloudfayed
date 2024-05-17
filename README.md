@@ -22,8 +22,8 @@
 ### 🛠 &nbsp;Tech Stack
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=563D7C)&nbsp;
-![Cpp](https://img.shields.io/badge/-Cpp-05122A?style=flat&logo=cpp)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=1572B6)&nbsp;
+![Cpp](https://img.shields.io/badge/-Cpp-05122A?style=flat&logo=c++)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=1572B6)&nbsp;
 ![Fire base](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
